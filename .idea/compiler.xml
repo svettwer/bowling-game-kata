@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="bowling-game-kata" target="1.8" />
+      <module name="bowling-game-kata" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>

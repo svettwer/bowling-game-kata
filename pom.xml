@@ -9,10 +9,10 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <junit5.jupiter.version>5.3.2</junit5.jupiter.version>
-        <surefire.version>3.0.0-M3</surefire.version>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <junit5.jupiter.version>5.11.1</junit5.jupiter.version>
+        <surefire.version>3.5.2</surefire.version>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
