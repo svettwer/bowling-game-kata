@@ -20,3 +20,7 @@ workshop. Take your time to understand the principles of TDD, its benefits and w
 7. Strike: 10 pins down on first try.
 8. Bonus: Number of pins of the next two rolls.
 9. Tenth Frame: Spare or Strike enable third roll.
+
+## CLI commands
+- On Linux: `./mvnw clean test` 
+- On Windows: `\.mvnw.cmd clean test`
